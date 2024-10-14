@@ -26,7 +26,7 @@ min_confidence = 0.1  # Confiança mínima para detecção
 frame_nmr = -1
 ret = True
 
-# Configurar matplotlib para exibição
+# Configurar matplotlib para exibiçãdsadasdasdo
 plt.ion()  # Ativar modo interativo
 fig, ax = plt.subplots()
 
