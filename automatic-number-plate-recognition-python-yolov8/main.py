@@ -34,7 +34,7 @@ fig, ax = plt.subplots()
 while ret:
     frame_nmr += 1
     ret, frame = cap.read()  # Lê um frame do vídeo
-    if not ret:  # Verifica se a leitura do frame foi bem-sucedida
+    if not ret:  # Verifica se a leitura do frdsadasdaame foi bem-sucedida
         print("Não foi possível ler o frame. Encerrando.")
         break
 
